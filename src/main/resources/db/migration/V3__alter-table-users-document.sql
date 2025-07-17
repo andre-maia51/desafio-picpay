@@ -1,0 +1,1 @@
+ALTER TABLE users RENAME COLUMN cpf TO document;
